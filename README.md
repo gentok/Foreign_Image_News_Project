@@ -32,3 +32,7 @@ The project answers following questions (or more).
  * *data*: Storage for publicly available datasets
  * *outputs*: Results (plots) generated for the presentation
  * *papers*: Storage for current versions of working papers
+
+## 6. License
+
+The analytical result and data in this project are licensed under the [Creative Commons Attribution 4.0 license](https://choosealicense.com/licenses/cc-by-4.0/), and the programming code used to generate the result is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
