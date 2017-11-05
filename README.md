@@ -1,6 +1,8 @@
 # **International News Coverage and Foreign Image Building**
 ## *Agenda Setting, Persuasion, and Framing in the Formation of Public Image toward Foreign States in Japan, 1987-2015*
 
+### Gento Kato (Department of Political Science, UC Davis)
+
 
 * ### [Working Paper (11/05/2017)](paper/Kato2017inne_171105.pdf)
 * ### [Presentation Slides (11/02/2017)](paper/Kato2017inne_slides_171102.pdf)
