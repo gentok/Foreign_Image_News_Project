@@ -1,1 +1,7 @@
 ## List of files that should be ignored from git
+data_heavy/
+codes/old/
+data/old/
+notebooks/old/
+outputs/old/
+papers/old/
