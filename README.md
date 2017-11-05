@@ -11,7 +11,7 @@
 ## 1. Overview
 
   * Title: International News and Foreign Perception
-  * Purpose: This is an ongoing project to analyze the impact of international news coverage on perceptions toward foreign countries in Japan.
+  * Purpose: This is the ongoing project to analyze the impact of international news coverage on perceptions toward foreign countries in Japan.
   * Started in: Spring 2013 (as the course project for Content Analysis Class at Waseda University)
   * Member: Gento Kato (UC Davis)
 
@@ -30,7 +30,7 @@ The project answers following questions (or more).
 
 ## 4. Analytical Strategy
 
- * Dictionary approach to extract relevant headlines to certain states/regions.
+ * Dictionary approach to extract headlines relevant to certain states/regions.
  * Supervised machine learning to code PN sentiments toward each country.
  * Time-series analysis to assess the impact of news coverage on public opinion.
 
