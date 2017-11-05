@@ -4,8 +4,8 @@
 ### Gento Kato (Department of Political Science, UC Davis)
 
 
-* ### [Working Paper (11/05/2017)](paper/Kato2017inne_171105.pdf)
-* ### [Presentation Slides (11/02/2017)](paper/Kato2017inne_slides_171102.pdf)
+* ### [Working Paper (11/05/2017)](papers/Kato2017inne_171105.pdf)
+* ### [Presentation Slides (11/02/2017)](papers/Kato2017inne_slides_171102.pdf)
 * ### [Online Appendix (11/05/2017)](notebooks/v3_SummaryNotebook.ipynb)
 
 ## 1. Overview
