@@ -1,9 +1,15 @@
-# **International News and Foreign Perception**
+# **International News Coverage and Foreign Image Building**
+## *Agenda Setting, Persuasion, and Framing in the Formation of Public Image toward Foreign States in Japan, 1987-2015*
+
+
+* ### [Working Paper (11/05/2017)](paper/Kato2017inne_171105.pdf)
+* ### [Presentation Slides (11/02/2017)](paper/Kato2017inne_slides_171102.pdf)
+* ### [Online Appendix (11/05/2017)](notebooks/v3_SummaryNotebook.ipynb)
 
 ## 1. Overview
 
-  * Title: Political Headlines Project
-  * Purpose: This is an ongoing project to analyze the impact of international news coverage on foreign perceptions in Japan.
+  * Title: International News and Foreign Perception
+  * Purpose: This is an ongoing project to analyze the impact of international news coverage on perceptions toward foreign countries in Japan.
   * Started in: Spring 2013 (as the course project for Content Analysis Class at Waseda University)
   * Member: Gento Kato (UC Davis)
 
@@ -11,9 +17,9 @@
 
 The project answers following questions (or more).
 
- * Can foreign news coverge influence the importance (salience) perception of foreign countries (or areas)?
- * Can positive/negative foreign news coverage influence the positive/negative feelings toward foreign countries (or areas)?
- * Does the framing of foreign coverage condition the size of news influence on foreign countries (or areas)?
+ * Can international news coverge influence the importance (salience) perception of foreign countries (or regions)?
+ * Can positive/negative international news coverage influence the positive/negative feelings toward foreign countries (or regions)?
+ * Does the framing of international news coverage condition the size of news influence on foreign countries (or regions?
 
 ## 3. Data
 
@@ -22,7 +28,7 @@ The project answers following questions (or more).
 
 ## 4. Analytical Strategy
 
- * Dictionary approach to extract relevant headlines to certain countries/areas.
+ * Dictionary approach to extract relevant headlines to certain states/regions.
  * Supervised machine learning to code PN sentiments toward each country.
  * Time-series analysis to assess the impact of news coverage on public opinion.
 
@@ -30,6 +36,7 @@ The project answers following questions (or more).
 
  * *codes*: R (and Python 2.7) codes used for data construction and analysis
  * *data*: Storage for publicly available datasets
+ * *notebooks*: The illustration of analysis & additional information
  * *outputs*: Results (plots) generated for the presentation
  * *papers*: Storage for current versions of working papers
 
